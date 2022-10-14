@@ -4,3 +4,15 @@
     align-items: center;
     font-size: 50px;
 }
+
+.top{
+    
+    display: flex;
+
+}
+
+.links{
+
+    display:flex;
+
+}
