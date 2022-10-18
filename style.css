@@ -26,3 +26,10 @@
     gap:25px;
     color: #E5E7EB;
 }
+
+.mainh{
+    display: flex;
+    font-size: 48px;
+    color: #F9FaF8;
+    font-weight:extra-bold;
+}
