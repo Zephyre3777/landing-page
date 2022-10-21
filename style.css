@@ -214,3 +214,41 @@ align-items:center;
     margin-right:200px;
     font-size:25px;
 }
+
+.bbox{
+    display: flex;
+    background-color: #3882F6;
+    margin:100px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.padds{
+    display: flex;
+    padding:50px;
+    flex-wrap: nowrap;
+    gap:200px;
+    
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    margin-left:0px;
+    align-items: start;
+    justify-content: start;
+    color:white;
+}
+.btext{
+    font-size: 20px;
+    font-weight: bold;
+}
+.sign{
+    display: flex;
+    border:#E5E7EB solid 3px;
+    margin-right:0px;
+    color:white;
+    padding:20px;
+    border-radius: 10px;
+}
